@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Rao-Ashu/keeper-app/static/js/main.3c9370f1.chunk.js",
+    "main.js.map": "/Rao-Ashu/keeper-app/static/js/main.3c9370f1.chunk.js.map",
+    "runtime-main.js": "/Rao-Ashu/keeper-app/static/js/runtime-main.f1839091.js",
+    "runtime-main.js.map": "/Rao-Ashu/keeper-app/static/js/runtime-main.f1839091.js.map",
+    "static/js/2.e191c4e3.chunk.js": "/Rao-Ashu/keeper-app/static/js/2.e191c4e3.chunk.js",
+    "static/js/2.e191c4e3.chunk.js.map": "/Rao-Ashu/keeper-app/static/js/2.e191c4e3.chunk.js.map",
+    "index.html": "/Rao-Ashu/keeper-app/index.html",
+    "precache-manifest.a94dc718e0e052bbe5db8385a9b403d0.js": "/Rao-Ashu/keeper-app/precache-manifest.a94dc718e0e052bbe5db8385a9b403d0.js",
+    "service-worker.js": "/Rao-Ashu/keeper-app/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1839091.js",
+    "static/js/2.e191c4e3.chunk.js",
+    "static/js/main.3c9370f1.chunk.js"
+  ]
+}

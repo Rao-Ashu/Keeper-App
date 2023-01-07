@@ -1,7 +1,6 @@
 {
   "name": "using-pre-built-react-components-completed",
   "version": "1.0.0",
-  "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
@@ -26,5 +25,16 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rao-Ashu/keeper-app.git"
+  },
+  "author": "ashutosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rao-Ashu/keeper-app/issues"
+  },
+  "homepage": "https://github.com/Rao-Ashu/keeper-app#readme",
+  "description": ""
 }
